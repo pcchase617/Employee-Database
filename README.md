@@ -5,7 +5,7 @@ This is an Employee Database that allows you to view, add and update, new and pr
 
 Repository: https://github.com/pcchase617/Employee-Database
 
-Video Link: 
+Video Link: https://drive.google.com/file/d/1jvBezed_V05nXFw5Au0kRkH0GW7Hx3qq/view
 
 Site Preview:
 
